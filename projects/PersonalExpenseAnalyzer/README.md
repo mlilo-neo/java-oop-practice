@@ -109,4 +109,27 @@ Future versions of this project could include:
 - Adding visual charts for spending analysis
 - Connecting the program to a database
 
+## 🖥️ Sample Output
+
+```text
+===== My Personal Monthly Expense Analyzer =====
+```
+Analysis for Month 1
+
+Monthly Allowance: RM450
+Family Support: RM100
+Food Expense: RM150
+Toiletries Expense: RM50
+Transport Expense: RM40
+Other Expense: RM30
+Fixed Saving: RM100
+
+Total Income: RM550.0
+Total Expense: RM370.0
+Remaining Balance: RM180.0
+Saving Status: Good
+
+Note: The program repeats the analysis process for three months using a for loop.
+
+
 This project is part of my journey as a Bachelor of Computer Science student, where I am developing my programming and problem-solving skills.
