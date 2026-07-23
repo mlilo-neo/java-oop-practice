@@ -1,5 +1,4 @@
 # Personal Expense Analyzer
-
 A Java program designed to help students track and analyze their monthly income, expenses, savings, and remaining balance.
 
 ## 📌 Project Overview
