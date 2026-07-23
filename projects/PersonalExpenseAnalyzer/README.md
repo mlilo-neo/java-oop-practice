@@ -131,5 +131,6 @@ Saving Status: Good
 
 Note: The program repeats the analysis process for three months using a for loop.
 
-
+```text
 This project is part of my journey as a Bachelor of Computer Science student, where I am developing my programming and problem-solving skills.
+```
