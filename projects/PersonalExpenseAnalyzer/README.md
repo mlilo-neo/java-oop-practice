@@ -67,7 +67,7 @@ The program uses:
 ```text
 Total Income = Monthly Allowance + Family Support
 ```
-###Total Expenses
+### Total Expenses
 ```text
 Total Expenses = Food Expense + Toiletries Expense + Transport Expense + Fixed Saving + Other Expenses
 ```
@@ -75,7 +75,7 @@ Remaining Balance
 ```text
 Remaining Balance = Total Income - Total Expenses
 ```
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 - Java
 - Java Scanner
 - Conditional Statements
@@ -83,7 +83,7 @@ Remaining Balance = Total Income - Total Expenses
 - Methods
 - Basic Problem-Solving
 
-##🎯 Learning Objectives
+## 🎯 Learning Objectives
 This project helped me practise:
 - Java programming fundamentals
 - Variables and data types
@@ -96,10 +96,10 @@ This project helped me practise:
 - Void return types
 - Basic program organization
 
-##🚧 Project Status
+## 🚧 Project Status
 Completed as a Java programming assignment and uploaded as part of my Computer Science learning portfolio.
 
-##🔮 Future Improvements
+## 🔮 Future Improvements
 Future versions of this project could include:
 - Saving data to a file
 - Reading previous expense records
