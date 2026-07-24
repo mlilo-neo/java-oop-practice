@@ -2,8 +2,6 @@
 
 This repository contains my Java programming and Object-Oriented Programming practice as a Bachelor of Computer Science student.
 
-Also this is my first 
-
 I am using this repository to document my learning journey, practise programming concepts, and build projects that improve my problem-solving skills.
 
 ## 📌 About This Repository
