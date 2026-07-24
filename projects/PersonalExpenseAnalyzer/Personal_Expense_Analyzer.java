@@ -42,7 +42,7 @@ public class Personal_Expense_Analyzer {
             System.out.print("Other Expense: RM");
             otherExpense = input.nextDouble();
 
-            fixedSaving = 100;
+            fixedSaving = 200;
 
             System.out.println("Fixed Saving: RM" + fixedSaving);
 
